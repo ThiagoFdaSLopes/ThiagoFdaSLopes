@@ -1,4 +1,4 @@
-## console.log("Hello World, Eu sou a Thiago Lopes Apaixonado por Tecnologia 😎")
+<!--## console.log("Hello World, Eu sou a Thiago Lopes Apaixonado por Tecnologia 😎")
 <div align="center">
   <a href="https://github.com/tornadozer0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TornadoZer0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,4 +24,5 @@
   <a href = "mailto:programadorthiagolopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-francisco-543794152" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+-->
 ![Snake animation](https://github.com/TornadoZer0/TornadoZer0/blob/output/github-contribution-grid-snake.svg)
