@@ -25,8 +25,8 @@
   <img align="center" alt="Tz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--
+  <img align="center" alt="Tz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Tz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/704910491599765534/961623258132807690/download20220404104532.png">
   -->
 </div>
@@ -34,7 +34,7 @@
   ##
   
    <p align='center'>
-   <h1 align='center'> Formas de Contato</h1>
+   <h1 align='center'>Contact-me</h1>
    </p>
   <div align="center">
   <a href="https://www.youtube.com/tornadozer0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
