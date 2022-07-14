@@ -7,7 +7,7 @@
 
 - I live in Brazil 🇧🇷
 - I like soccer, movies, series, and Drum Cover's  ⚽
-- I am Full Stack Developer 💻 🖱️
+- I'm currently a student at Trybe(Web Development School) 💻 🖱️
 
 <div align="center">
   <a href="https://github.com/ThiagoFdaSLopes">
