@@ -9,14 +9,16 @@
 - I like soccer, movies, series, and Drum Cover's  ⚽
 - I am Full Stack Developer 💻 🖱️
 
-<div display="inline-block">
+<div align="center">
   <a href="https://github.com/ThiagoFdaSLopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFdaSLopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFdaSLopes&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
  <p align='center'>
   <h1 align='center'>My Stacks 🛠️</h1>
  </p>
+ 
 <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="Tz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
