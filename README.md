@@ -1,4 +1,7 @@
 ## console.log("Hello World, Eu sou a Thiago Lopes Apaixonado por Tecnologia 😎")
+<p align='center'>
+  <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
+</p>
 <div align="center">
   <a href="https://github.com/ThiagoFdaSLopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFdaSLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
