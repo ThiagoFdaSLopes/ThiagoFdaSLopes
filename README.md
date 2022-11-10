@@ -21,8 +21,6 @@ Estou indo para o Modulo de Back-End onde vou aprender, TypeScript, Docker, Node
 - Eu moro no interior de São Paulo/Brasil 🇧🇷
 - Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
 - Atualmente estou estudando na Trybe 💻 🖱️
-
-Estou a disposição para conversar! E tirar suas dúvidas.
 </p>
 
  <p align='center'>
