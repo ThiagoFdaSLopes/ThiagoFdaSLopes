@@ -9,6 +9,16 @@
 - I like soccer, movies, series, and Drum Cover's  ⚽
 - I'm currently a student at Trybe(Web Development School) 💻 🖱️
 
+Trabalhei como instrutor de informática, auxiliando e ensinando mais de 500 alunos durante 4 anos. Ensinei, Desenvolvimento de Games e Softwares entre outras tecnologias como Word e Excel.
+
+Adoro resolver problemas e poder contribuir com as pessoas. Sou aficionado por tecnologia, mercado financeiro e de capitais.
+
+Passei pelos módulos de Fundamentos e Front-End onde adquiri conhecimentos em versionamento de código com Git e GitHub. Linguagem de marcação com HTML, estilo com CSS, programação com JavaScript (ES6+) e bibliotecas como React e Redux. Testes automatizados unitários e de integração com Jest e React Testing Library, Metodologias Ágeis (Scrum, Kanban).
+
+Estou indo para o Modulo de Back-End onde vou aprender, TypeScript, Docker, Node, Next, Express, Sequelize, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI), Heroku (CD).
+
+Estou a disposição para conversar! E tirar suas dúvidas.
+
 <div align="center">
   <a href="https://github.com/ThiagoFdaSLopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFdaSLopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
