@@ -77,8 +77,6 @@ Estou a disposição para conversar! E tirar suas dúvidas.
 </table>
 </div>
   
-  ##
-  
    <p align='center'>
    <h1 align='center'>Contatos</h1>
    </p>
