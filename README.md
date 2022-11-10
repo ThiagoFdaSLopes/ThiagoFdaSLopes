@@ -25,6 +25,10 @@ Estou indo para o Modulo de Back-End onde vou aprender, TypeScript, Docker, Node
 Estou a disposição para conversar! E tirar suas dúvidas.
 </p>
 
+ <p align='center'>
+  <h1 align='center'>Atividade no github</h1>
+ </p>
+ 
 <div align="center">
   <a href="https://github.com/ThiagoFdaSLopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFdaSLopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
