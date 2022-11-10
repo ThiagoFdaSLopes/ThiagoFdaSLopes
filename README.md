@@ -5,10 +5,15 @@
   <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
 </p>
 
-- I live in Brazil 🇧🇷
-- I like soccer, movies, series, and Drum Cover's  ⚽
-- I'm currently a student at Trybe(Web Development School) 💻 🖱️
+- Eu vivo no brasil 🇧🇷
+- Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
+- Atualmente estou estudando da Trybe 💻 🖱️
 
+ <p align='center'>
+  <h1 align='center'>Sobre Mim 🛠️</h1>
+ </p>
+ 
+ <p>
 Trabalhei como instrutor de informática, auxiliando e ensinando mais de 500 alunos durante 4 anos. Ensinei, Desenvolvimento de Games e Softwares entre outras tecnologias como Word e Excel.
 
 Adoro resolver problemas e poder contribuir com as pessoas. Sou aficionado por tecnologia, mercado financeiro e de capitais.
@@ -18,6 +23,7 @@ Passei pelos módulos de Fundamentos e Front-End onde adquiri conhecimentos em v
 Estou indo para o Modulo de Back-End onde vou aprender, TypeScript, Docker, Node, Next, Express, Sequelize, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI), Heroku (CD).
 
 Estou a disposição para conversar! E tirar suas dúvidas.
+</p>
 
 <div align="center">
   <a href="https://github.com/ThiagoFdaSLopes">
