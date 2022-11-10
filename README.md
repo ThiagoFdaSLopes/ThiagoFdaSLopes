@@ -5,10 +5,6 @@
   <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
 </p>
 
-- Eu moro no interior de São Paulo/brasil 🇧🇷
-- Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
-- Atualmente estou estudando da Trybe 💻 🖱️
-
  <p align='center'>
   <h1 align='center'>Sobre Mim</h1>
  </p>
@@ -21,6 +17,10 @@ Adoro resolver problemas e poder contribuir com as pessoas. Sou aficionado por t
 Passei pelos módulos de Fundamentos e Front-End onde adquiri conhecimentos em versionamento de código com Git e GitHub. Linguagem de marcação com HTML, estilo com CSS, programação com JavaScript (ES6+) e bibliotecas como React e Redux. Testes automatizados unitários e de integração com Jest e React Testing Library, Metodologias Ágeis (Scrum, Kanban).
 
 Estou indo para o Modulo de Back-End onde vou aprender, TypeScript, Docker, Node, Next, Express, Sequelize, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI), Heroku (CD).
+  
+- Eu moro no interior de São Paulo/Brasil 🇧🇷
+- Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
+- Atualmente estou estudando da Trybe 💻 🖱️
 
 Estou a disposição para conversar! E tirar suas dúvidas.
 </p>
