@@ -39,11 +39,12 @@ Estou a disposição para conversar! E tirar suas dúvidas.
   <h1 align='center'>My Stacks 🛠️</h1>
  </p>
  
- <table>
-  <thead>
-    <tr>Front-End</tr>
-    <tr>Back-End</tr>
-  </thead>
+<table>
+  <tr>
+    <th>Front-End</th>
+    <th>Back-end</th>
+  </tr>
+</table>
 
 </table>
  
