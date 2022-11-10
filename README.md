@@ -39,6 +39,14 @@ Estou a disposição para conversar! E tirar suas dúvidas.
   <h1 align='center'>My Stacks 🛠️</h1>
  </p>
  
+ <table>
+  <thead>
+    <tr>Front-End</tr>
+    <tr>Back-End</tr>
+  </thead>
+
+</table>
+ 
 <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="Tz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
