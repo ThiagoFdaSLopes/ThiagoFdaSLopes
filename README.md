@@ -12,7 +12,7 @@
  <p>
 Trabalhei como instrutor de informática, auxiliando e ensinando mais de 500 alunos durante 4 anos. Ensinei, Desenvolvimento de Games e Softwares entre outras tecnologias como Word e Excel.
 
-Adoro resolver problemas e poder contribuir com as pessoas. Sou aficionado por tecnologia, mercado financeiro e de capitais.
+Adoro resolver problemas e poder contribuir com as pessoas. Sou aficionado por tecnologia e mercado financeiro.
 
 Passei pelos módulos de Fundamentos e Front-End onde adquiri conhecimentos em versionamento de código com Git e GitHub. Linguagem de marcação com HTML, estilo com CSS, programação com JavaScript (ES6+) e bibliotecas como React e Redux. Testes automatizados unitários e de integração com Jest e React Testing Library, Metodologias Ágeis (Scrum, Kanban).
 
