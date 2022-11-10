@@ -5,12 +5,12 @@
   <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
 </p>
 
-- Eu vivo no brasil 🇧🇷
+- Eu moro no interior de São Paulo/brasil 🇧🇷
 - Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
 - Atualmente estou estudando da Trybe 💻 🖱️
 
  <p align='center'>
-  <h1 align='center'>Sobre Mim 🛠️</h1>
+  <h1 align='center'>Sobre Mim</h1>
  </p>
  
  <p>
