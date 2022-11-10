@@ -59,6 +59,7 @@ Estou a disposição para conversar! E tirar suas dúvidas.
     <td>
        <img align="center" alt="Tz-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
        <img align="center" alt="Tz-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+       <img align="center" alt="Tz-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
        <img align="center" alt="Tz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </td>
     <td>
@@ -67,6 +68,8 @@ Estou a disposição para conversar! E tirar suas dúvidas.
     <td>
        <img align="center" alt="Tz-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
        <img align="center" alt="Tz-vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+       <img align="center" alt="Tz-vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+      <img align="center" alt="Tz-vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     </td>
   </tr>
 </table>
