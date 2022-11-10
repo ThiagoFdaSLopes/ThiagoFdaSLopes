@@ -26,7 +26,7 @@ Estou a disposição para conversar! E tirar suas dúvidas.
 </p>
 
  <p align='center'>
-  <h1 align='center'>Atividade no github</h1>
+  <h1 align='center'>Atividade no Github</h1>
  </p>
  
 <div align="center">
