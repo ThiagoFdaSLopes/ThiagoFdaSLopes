@@ -16,7 +16,7 @@ Adoro resolver problemas e poder contribuir com as pessoas. Sou aficionado por t
 
 Passei pelos módulos de Fundamentos e Front-End onde adquiri conhecimentos em versionamento de código com Git e GitHub. Linguagem de marcação com HTML, estilo com CSS, programação com JavaScript (ES6+) e bibliotecas como React e Redux. Testes automatizados unitários e de integração com Jest e React Testing Library, Metodologias Ágeis (Scrum, Kanban).
 
-Estou indo para o Modulo de Back-End onde vou aprender, TypeScript, Docker, Node, Next, Express, Sequelize, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI), Heroku (CD).
+Estou indo para o Modulo de Back-End onde aprendi, TypeScript, Docker, Node, Next, Express, Sequelize, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI), Railway (CD).
   
 - Eu moro no interior de São Paulo/Brasil 🇧🇷
 - Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
