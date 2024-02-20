@@ -23,6 +23,7 @@ Modulo de Ciencias da Computação aprendi, Python, POO em Python, Web Scraping,
 - Eu moro no interior de São Paulo/Brasil 🇧🇷
 - Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
 - Formado na Trybe como Desenvolvedor Full Stack 💻 🖱️
+- Cursando Analise e Desenvolvimento de sistemas Na FIAP.
 </p>
 
  <p align='center'>
