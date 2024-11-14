@@ -9,21 +9,21 @@
   <h1 align='center'>Sobre Mim</h1>
  </p>
  
- <p>
-Trabalhei como instrutor de informática, auxiliando e ensinando mais de 500 alunos durante 4 anos. Ensinei, Desenvolvimento de Games e Softwares entre outras tecnologias como Word e Excel.
-
-Adoro resolver problemas e poder contribuir com as pessoas. Sou aficionado por tecnologia e mercado financeiro.
-
-Passei pelos módulos de Fundamentos e Front-End onde adquiri conhecimentos em versionamento de código com Git e GitHub. Linguagem de marcação com HTML, estilo com CSS, programação com JavaScript (ES6+) e bibliotecas como React e Redux. Testes automatizados unitários e de integração com Jest e React Testing Library, Metodologias Ágeis (Scrum, Kanban).
-
-Modulo de Back-End onde aprendi, TypeScript, Docker, Node.js, Express, Sequelize, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI), Railway (CD), SOLID, POO(Programacao orientada a objetos), Moongose.
-
-Modulo de Ciencias da Computação aprendi, Python, POO em Python, Web Scraping, Python + MongoDB, Algoritmos, Raspagem de Dados e Estruturas de Dados.
+<p>
+  Trabalho como Desenvolvedor Full Stack.
   
-- Eu moro no interior de São Paulo/Brasil 🇧🇷
-- Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
-- Formado na Trybe como Desenvolvedor Full Stack 💻 🖱️
-- Cursando Analise e Desenvolvimento de sistemas Na FIAP.
+  Adoro resolver problemas e poder contribuir com as pessoas. Sou aficionado por tecnologia e mercado financeiro.
+  
+  Conhecimentos em Front-End -> Linguagem de marcação com HTML, estilo com CSS, programação com JavaScript e bibliotecas como React e Redux. Testes automatizados unitários e de integração com Jest e React Testing Library, React Native...
+  
+  Conhecimentos em Back-End -> TypeScript, Docker, Node.js, Express, Sequelize, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI) / (CD), Railway (CD), SOLID, POO(Programacao orientada a objetos), Moongose, Java, JSP, Servlets.
+  
+  Conhecimentos gerais -> Git, Github, Python, POO em Python, Web Scraping, Python + MongoDB, Algoritmos, Raspagem de Dados e Estruturas de Dados, AWS EC2.
+    
+  - Eu moro no interior de São Paulo/Brasil 🇧🇷
+  - Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
+  - Formado na Trybe como Desenvolvedor Full Stack 💻 🖱️
+  - Cursando Segundo Ano de Analise e Desenvolvimento de sistemas Na FIAP.
 </p>
 
  <p align='center'>
@@ -89,8 +89,6 @@ Modulo de Ciencias da Computação aprendi, Python, POO em Python, Web Scraping,
   <div align="center">
   <a href="https://www.youtube.com/tornadozer0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/thiago_franciscolopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/tornadozer0" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/hWF7pdS3jM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:programadorthiagolopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-lopes-dev-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
