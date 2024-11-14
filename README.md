@@ -12,13 +12,13 @@
 <p>
   Trabalho como Desenvolvedor Full Stack, tenho experiencia em desenvolvimento de software para web, mobile, desktop, sistema embarcado.
   
-  Adoro resolver problemas e poder contribuir com as pessoas. Sou aficionado por tecnologia e mercado financeiro.
+  Amo resolver problemas, isso me motiva a se manter atualizado e poder contribuir com as pessoas. Sou aficionado por tecnologia e mercado financeiro.
   
-  Conhecimentos em Front-End -> Linguagem de marcação com HTML, estilo com CSS, Styled Components, Javascript, Redux, React, React Native, Next.js, Testes automatizados unitários e de integração com Jest e React Testing Library,
+  Conhecimentos em Front-End -> Linguagem de marcação com HTML, estilo com CSS, Styled Components, Tailwind, Bootstrap, Javascript, Typescript, Flask, Redux, React, React Native, Next.js, Testes automatizados unitários e de integração com Jest e React Testing Library,
   
   Conhecimentos em Back-End -> TypeScript, Docker, Node.js, Express, Sequelize, Nest.js, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI) / (CD), Railway (CD), SOLID, POO(Programacao orientada a objetos), Moongose, Java, JSP, Servlets.
   
-  Conhecimentos gerais -> Git, Github, Python, POO em Python, Web Scraping, Python + MongoDB, Algoritmos, Raspagem de Dados e Estruturas de Dados, AWS EC2, NewRelic, Sentry, Oracle SQL, Desenvolvimento Mobile.
+  Conhecimentos gerais -> Git, Github, Python, POO em Python, Web Scraping, Python + MongoDB, Algoritmos, Raspagem de Dados e Estruturas de Dados, AWS EC2, NewRelic, Sentry, Oracle SQL, Desenvolvimento Mobile, Desenvolvimento de IA com Flowise com Model Illama3.2.
     
   - Eu moro no interior de São Paulo/Brasil 🇧🇷
   - Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
