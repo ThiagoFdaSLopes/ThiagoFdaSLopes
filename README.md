@@ -18,7 +18,7 @@
   
   Conhecimentos em Back-End -> TypeScript, Docker, Node.js, Express, Sequelize, Nest.js, Prisma, Mocha, Chai, banco de dados SQL e NoSQL (MySQL e Mongo), GitHub Actions (CI) / (CD), Railway (CD), SOLID, POO(Programacao orientada a objetos), Moongose, Java, JSP, Servlets.
   
-  Conhecimentos gerais -> Git, Github, Python, POO em Python, Web Scraping, Python + MongoDB, Algoritmos, Raspagem de Dados e Estruturas de Dados, AWS EC2, NewRelic, Sentry, Oracle SQL, Desenvolvimento Mobile, Desenvolvimento de IA com Flowise com Model Illama3.2.
+  Conhecimentos gerais -> Git, Github, Python, POO em Python, Web Scraping, Python + MongoDB, Algoritmos, Raspagem de Dados e Estruturas de Dados, AWS EC2, NewRelic, Sentry, Oracle SQL, PL/SQL, Desenvolvimento Mobile(React Native, Kotlin), Desenvolvimento de IA com Flowise com Model Illama3.2.
     
   - Eu moro no interior de São Paulo/Brasil 🇧🇷
   - Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
