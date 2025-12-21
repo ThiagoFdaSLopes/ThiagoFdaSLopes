@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Thiago Lopes</h1>
-<h3 align="center">Desenvolvedor Full Stack | Arquitetura de Software | Soluções Escaláveis</h3>
+<h3 align="center">Desenvolvedor Full Stack | Arquiteto de Software | Soluções Escaláveis</h3>
 
 ---
 
