@@ -23,7 +23,8 @@
   - Eu moro no interior de São Paulo/Brasil 🇧🇷
   - Eu gosto de futebol, filmes, series, e Drum's Covers  ⚽
   - Formado na Trybe como Desenvolvedor Full Stack 💻 🖱️
-  - Cursando Segundo Ano de Analise e Desenvolvimento de sistemas Na FIAP.
+  - Graduado em Analise e Desenvolvimento de sistemas Na FIAP/2025.
+  - Pós Graduando em Arquitetura de Software FIAP.
 </p>
 
  <p align='center'>
